@@ -26,16 +26,15 @@
 }
 
 .main-options-img{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     
 }
 
 .main-options-option{
     border: solid 5px white;
     text-align: center;
-    width: 400px;
-    height: 400px;
+
 }
 
 .main-options-option:hover{
@@ -65,4 +64,8 @@ footer {
 
 .main-hamburguesa {
     justify-content: center;
+}
+
+.gracias-voto {
+    color: #16A3E7;
 }
